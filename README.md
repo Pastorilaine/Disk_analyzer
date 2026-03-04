@@ -92,8 +92,7 @@ Valmis `.exe`-ohjelma löytyy automaattisesti luodusta `dist`-kansiosta.
 
 ---
 
-*Created by [Sinun Nimesi / Nimimerkkisi tähän]*
+*Created by Pastorilaine and Gemini*
 
 ```
-<img width="843" height="727" alt="image" src="https://github.com/user-attachments/assets/20e2627c-db5e-465e-bbd4-feca899728c3" />
 
