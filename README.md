@@ -94,5 +94,4 @@ Valmis `.exe`-ohjelma löytyy automaattisesti luodusta `dist`-kansiosta.
 
 *Created by Pastorilaine and Gemini*
 
-```
 
