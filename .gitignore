@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# PyInstaller build artifacts
+build/
+
+# Local pycs from build
+localpycs/
+
+# Editor/project files
+.idea/
+.vscode/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+/build
+/isot_tiedostot.spec
+
+# Generated report CSVs
+Levyraportti_C_asemaUsers_jimil_20260304_120643.csv
+Levyraportti_C_asema_20260304_115238.csv
