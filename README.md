@@ -1,8 +1,3 @@
-Tämä on todella hieno askel! Koodin vieminen GitHubiin on paras tapa pitää se tallessa ja esitellä taitojasi muille.
-
-Tässä on sinulle valmis, ammattimainen `README.md` -tiedosto. Se sisältää kaksi osiota: ensin englanniksi (joka on GitHubin oletuskieli ja tavoittaa laajimman yleisön) ja sen alla suomeksi.
-
-Voit kopioida tämän koko laatikon sisällön suoraan GitHub-repositoriosi `README.md` -tiedostoon!
 
 ```markdown
 # 🚀 Ultimate Disk Space Analyzer
